@@ -59,15 +59,15 @@
 
 ### 📂 Мои проекты
 
-- [Проект 1](https://github.com/KostyaAntonov/Application_banking_operations) — Краткое описание проекта.
-- [Проект 2](https://github.com/KostyaAntonov/Job_search) — Краткое описание проекта.
-- [Проект 3](https://github.com/KostyaAntonov/Blog-Optimization) — Краткое описание проекта.
+- 🏦 [Проект 1: Банковские операции](https://github.com/KostyaAntonov/Application_banking_operations) — Приложение для управления банковскими операциями.
+- 🔍 [Проект 2: Поиск работы](https://github.com/KostyaAntonov/Job_search) — Платформа для поиска вакансий и работы.
+- ✍️ [Проект 3: Оптимизация блога](https://github.com/KostyaAntonov/Blog-Optimization) — Инструменты для SEO и оптимизации блога.
 
 ---
 
 ### 📫 Как со мной связаться
 
-- **Telegram**: [@kostya_antonov](https://t.me/kostya_antonov) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+- **Telegram**: <a href="https://t.me/kostya_antonov" target="_blank"> @kostya_antonov</a>
 
 
 ---
