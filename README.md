@@ -1,11 +1,48 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIweW5ubjlmNzh4OXY5NWtsc2V6MjN3bmQxajY5NGk4MHk1MTlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</div>
- <div id="user-content-badges" align="center" dir="auto">
-  <a href="https://t.me/kostya_antonov" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/2a0ddc97d7e52c2eef90147734437b674175e5921745634dfb74585461a6cd0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://vk.com/kostya__antonov" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/5a0750960343564b184c25d0116b215cf791158c079d8b464af6e38515eefdfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f564b2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="VK Badge" data-canonical-src="https://img.shields.io/badge/VK-blue?style=for-the-badge&amp;logo=vk&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</div>
+# Привет, меня зовут [Ваше Имя]! 👋
+
+🚀 Я — разработчик, увлеченный созданием качественного кода и решением сложных задач.  
+💻 Мои основные технологии: Python, JavaScript, SQL, Docker.  
+📚 Постоянно изучаю новые технологии и улучшаю свои навыки.  
+
+---
+
+### 🛠️ Технологии и инструменты
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Статистика GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=dark)](https://github.com/ваш_логин)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=dark)](https://github.com/ваш_логин)
+
+---
+
+### 🏆 Мои достижения
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ваш_логин&theme=onedark)](https://github.com/ваш_логин)
+
+---
+
+### 📂 Мои проекты
+
+- [Проект 1](https://github.com/ваш_логин/проект1) — Краткое описание проекта.
+- [Проект 2](https://github.com/ваш_логин/проект2) — Краткое описание проекта.
+- [Проект 3](https://github.com/ваш_логин/проект3) — Краткое описание проекта.
+
+---
+
+### 📫 Как со мной связаться
+
+- **Email**: ваш.email@example.com
+- **Telegram**: [@ваш_телеграм](https://t.me/ваш_телеграм)
+- **LinkedIn**: [Ваше Имя](https://www.linkedin.com/in/ваш_профиль)
+
+---
+
+⭐ Спасибо за посещение моего профиля! ⭐
